@@ -1,0 +1,10 @@
+
+site_name: Crypto Bot Master Guide
+theme:
+  name: material
+repo_url: https://github.com/graymychael/crypto-bot-master-guide
+nav:
+  - Home: index.md
+  - Setup Guide: setup.md
+  - Telegram Alerts: telegram.md
+  - GitHub Actions: actions.md
